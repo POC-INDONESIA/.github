@@ -7,8 +7,8 @@
 
 ```
 
-# 🇮🇩 POC INDONESIA (POC ID) 📡
-POC Indonesia (POC ID) di bawah naungan INADI (Informasi Antar Daerah Indonesia) adalah komunitas komunikasi berbasis aplikasi dari berbagai kalangan umur dan profesi, yang bertujuan menjalin hubungan[...]
+# 🇮🇩 POC INDONESIA (POC IND) 📡
+POC Indonesia (POC IND) di bawah naungan INADI (Informasi Antar Daerah Indonesia) adalah komunitas komunikasi berbasis aplikasi dari berbagai kalangan umur dan profesi, yang bertujuan menjalin hubungan[...]
 
 ---
 
